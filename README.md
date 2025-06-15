@@ -7,6 +7,24 @@ I'm a undergraude IT student with interest inUI/UX design and front-end developm
 
 🔭 Currently working on: Front-end Developer Intern at University of Newcastle - HIRAKU Platform
 🌱 Learning: Advanced React.js, Next.js, and AI-driven chat features
-💼 Recent Project: GoodShoe E-commerce Platform - Full-stack sports shoe store
-🎯 Focus: Creating customer-focused solutions with strong attention to detail
+🎯 Focus: Trying to create the applications and websites that will help me with my daily usage and help others as I go.
 ⚡ Fun fact: I'm a PASS Leader helping fellow students with Object-Oriented Programming!
+😄 Pronouns: He/Him
+
+📫 How to reach me ...
+
+📊 Tech Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LinVulpes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinVulpes&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LinVulpes&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="600">
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=LinVulpes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+"I like building and designing websites that meet high standards!"
+Always excited to collaborate on innovative projects and deliver exceptional technology experiences.
+Fun Fact : 
+</div>
