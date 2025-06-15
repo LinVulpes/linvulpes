@@ -1,5 +1,6 @@
 Hi there! 👋 <br>
-You can call be Vulpes! 
+You can call be Vulpes!
+
 ![FoxMagicMagicalFoxGIF](https://github.com/user-attachments/assets/7e24d499-5d15-4a20-b342-bc3e265f95cc)
 
 <div align="center">
