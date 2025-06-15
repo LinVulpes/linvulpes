@@ -1,8 +1,6 @@
 Hi there! 👋 <br>
 You can call be Vulpes!
 
-![FoxMagicMagicalFoxGIF](https://github.com/user-attachments/assets/7e24d499-5d15-4a20-b342-bc3e265f95cc)
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Front-end+Developer+%26+UI%2FUX+Designer;Full-Stack+Developer;Problem+Solver+%26+Fast+Learner;Building+User-Centered+Solutions" alt="Typing SVG" />
 </div>
