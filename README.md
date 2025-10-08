@@ -5,7 +5,7 @@ Hi there! 👋 <br>
 </div>
 👨‍💻 IT Professional | B.I.T. – University of Newcastle
 <br>
-🎯 Building story-driven websites & applications that people enjoy using.
+🎯 Building story-driven websites & applications that people enjoy using. <br>
 🏆 Student PASS Leader helping fellow students with Object Oriented Programming!
 
 
