@@ -9,14 +9,9 @@ Hi there! 👋 <br>
 🏆 Student PASS Leader helping fellow students with Object Oriented Programming!
 
 
-📊 Tech Stats
+📊 GitHub Tech Stats
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LinVulpes&theme=gruvbox" alt="GitHub Graph">
-</div>
-
-
-<div align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/LINVULPES?cardType=github&theme=gruvbox&preferLogin=false&Ring=fe8019&Text=FFFFFF&Title=FABD2F&Border=282828&Background=DD272700" alt="GitHub Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LinVulpes&theme=gruvbox" alt="GitHub Stats" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LinVulpes&theme=gruvbox" />
 </div>
 
